@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JaroslavMitro
+- 👋 Hi, I’m @JaroslavMitrovic
 - 👀 I’m interested in Audio, DSP, VisualBasic and .NET.
 - 🌱 I’m currently learning JAVA and C#.
 - 💞️ I’m looking to collaborate on XLIFF V2. 
